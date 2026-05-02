@@ -1,4 +1,5 @@
 # 📰 NewsBot Intelligence System
+An end-to-end NLP pipeline for news classification, sentiment analysis, and named entity recognition.
 
 ## 📌 Project Overview
 This project implements a complete NLP pipeline for analyzing news articles. It integrates text classification, sentiment analysis, and named entity recognition to generate actionable insights from unstructured text data.
